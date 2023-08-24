@@ -1,0 +1,9 @@
+#about {
+    border: 2px solid black;
+}
+#header {
+    min-height: 40px;
+    text-align: center;   
+    font-size: larger;
+    font-style: Arial;
+}
