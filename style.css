@@ -1,9 +1,12 @@
 #about {
+    margin-top: 30px;
+    margin-left: 40px;
     border: 2px solid black;
+    display:inline-flex;
 }
 #header {
     min-height: 40px;
-    text-align: center;   
-    font-size: larger;
-    font-style: Arial;
+    font-style: 'Segoe UI', Tahoma, Verdana, sans-serif; color: blue;
+    font-size: 40px;
+    border-bottom: 5px solid black;
 }
