@@ -17,6 +17,11 @@
     font-family: 'Times New Roman', Times, serif; color: orange;
     max-width: 800px;
 }
+.links {
+    padding-left: 80px;
+    font-family: Arial, Helvetica, sans-serif; color:blue;
+    align-items:flex-start;
+}
 
 
 
