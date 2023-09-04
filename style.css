@@ -17,18 +17,12 @@
     font-family: 'Times New Roman', Times, serif; color: orange;
     max-width: 800px;
 }
-.links {
-    padding-left: 80px;
-    font-family: Arial, Helvetica, sans-serif; color:blue; font-size: larger;
-    align-items:flex-start;
-}
 .box {
     display: flex; flex-direction: column; flex-wrap: wrap;
     padding-left: 80px;
     padding-bottom: 30px;
     align-items: flex-start;
-    justify-content: center;
-    
+    justify-content: center;   
 }
 .text2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif; font-size: small;color: greenyellow;
@@ -37,9 +31,9 @@
 .li_type {
     list-style-type: none; color: blue; align-items: center;
 }
-.line-break {
-    width: 100%;
-  }
+.image {
+    flex-basis: 40%
+}
 
 
 

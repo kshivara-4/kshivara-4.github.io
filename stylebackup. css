@@ -12,3 +12,7 @@
 
 }
 
+.links {
+    padding-left: 80px;
+    font-family: Arial, Helvetica, sans-serif; color:blue; font-size: larger;
+    align-items:flex-start;
