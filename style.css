@@ -4,13 +4,15 @@
     font-size: 40px;
     border-bottom: 5px solid black;
     margin-left: 50px;
+    display: flex;
 }
 #about {
     margin-top: 20px;
     margin-left: 80px;
     max-width: 500px;
     border: 2px solid black;
-    display: flex; flex-wrap: nowrap;
+    display: flex;
+    justify-content: space-between;
 }
 .text {
     padding-left: 80px;
@@ -49,13 +51,15 @@ text-align: right;
 .content {
     max-width: 1600px;
     margin-left: 400px;
-    margin-right: 50px;
+    
     background: white;
     padding: 10px;
+
 }
 .content1 {
     max-width: 1600px;
     margin-left: 400px;
     background: white;
     padding: 10px;
+    
 }
