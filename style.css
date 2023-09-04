@@ -10,7 +10,7 @@
     margin-left: 80px;
     max-width: 500px;
     border: 2px solid black;
-    display: inline-flex;
+    display: flex;
 }
 .text {
     padding-left: 80px;
@@ -42,7 +42,20 @@ text-align: right;
     width: 800px;
 }
 .links{
-    padding-left: 290px;
-    font-size: 25px;
+    padding-left: 300px;
+    font-size: 20px;
     font-family: sans-serif; color: tomato; 
+}
+.content {
+    max-width: 1600px;
+    margin-left: 400px;
+    margin-right: 50px;
+    background: white;
+    padding: 10px;
+}
+.content1 {
+    max-width: 1600px;
+    margin-left: 400px;
+    background: white;
+    padding: 10px;
 }
