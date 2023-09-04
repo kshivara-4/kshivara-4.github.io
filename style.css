@@ -14,50 +14,35 @@
 }
 .text {
     padding-left: 80px;
-    font-family: 'Times New Roman', Times, serif; color: orange;
+    font-family: 'Times New Roman', Times, serif; color: rebeccapurple; font-size: 20px;
     max-width: 800px;
+    align-items: flex-start;
 }
 .box {
-    display: flex; flex-direction: column; flex-wrap: wrap;
+    display: flex; flex-wrap: nowrap;
     padding-left: 80px;
     padding-bottom: 30px;
+    align-items: center;
     align-items: flex-start;
-    justify-content: center;   
 }
 .text2 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif; font-size: small;color: greenyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif; font-size: small;color: royalblue;
     padding-left: 50px;    
 }
 .li_type {
-    list-style-type: none; color: blue; align-items: center;
+    list-style-type: none; color:orangered; align-items: center;
 }
-.image {
-    flex-basis: 40%
+#footer {
+border: 5px outset orange;
+background-color: limegreen;
+text-align: right;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
+.text3 {
+    font-family: 'Courier New', Courier, monospace; font-size: 40px; color: brown; padding-left: 75px;
+    width: 800px;
+}
+.links{
+    padding-left: 290px;
+    font-size: 25px;
+    font-family: sans-serif; color: tomato; 
+}
