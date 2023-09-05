@@ -55,14 +55,14 @@ text-align: right;
     font-family: sans-serif; color: tomato; 
 }
 .content {
-    max-width: 800px;
+    max-width: 1440px;
     margin-left: 100px;
     
     background: white;
     padding: 10px;
 }
 .content1 {
-    max-width: 800px;
+    max-width: 1440px;
     margin-left: 100px;
     background: white;
     padding: 10px;
